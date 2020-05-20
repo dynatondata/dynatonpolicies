@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Employees Policy
+permalink: /policies/19-employees_policy
 ---
 
 # 19. Employees Policy

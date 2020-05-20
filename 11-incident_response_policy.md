@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Incident Response Policy
+permalink: /policies/10-facility_access_policy11-incident_response_policy
 ---
 
 # 11. Incident Response Policy

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Roles Policy
+permalink: /policies/05-roles_policy
 ---
 
 # 5. Roles Policy

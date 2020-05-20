@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: System Access Policy
+permalink: /policies/07-systems_access_policy
 ---
 
 # 7. System Access Policy

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Approved Tools Policy
+permalink: /policies/20-approved_tools_policy
 ---
 
 # 20. Approved Tools Policy

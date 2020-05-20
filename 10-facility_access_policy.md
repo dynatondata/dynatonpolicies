@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Facility Access Policy
+permalink: /policies/10-facility_access_policy
 ---
 
 # 10. Facility Access Policy

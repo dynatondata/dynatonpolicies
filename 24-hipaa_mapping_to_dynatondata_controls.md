@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: HIPAA Mappings to Dynaton Data Controls
+permalink: /policies/24-hipaa_mapping_to_dynatondata_controls
 ---
 
 # 24. HIPAA Mappings to Dynaton Data Controls

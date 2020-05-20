@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: System Access Policy
+permalink: /policies/07-a1-systems_access_policy_appendix_1
 ---
 
 #7. System Access Policy

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Breach Policy
+permalink: /policies/12-breach_policy
 ---
 
 # 12. Breach Policy

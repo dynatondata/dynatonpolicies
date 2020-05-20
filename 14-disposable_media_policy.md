@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Disposable Media Policy
+permalink: /policies/14-disposable_media_policy
 ---
 
 # 14. Disposable Media Policy

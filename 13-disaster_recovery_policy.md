@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Disaster Recovery Policy
+permalink: /policies/13-disaster_recovery_policy
 ---
 
 # 13. Disaster Recovery Policy

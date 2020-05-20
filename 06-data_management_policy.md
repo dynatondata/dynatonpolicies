@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Data Management Policy
+permalink: /policies/06-data_management_policy
 ---
 
 # 6. Data Management Policy

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Data Integrity Policy
+permalink: /policies/17-data_integrity_policy
 ---
 
 # 17. Data Integrity Policy

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Data Retention Policy
+permalink: /policies/18-data_retention_policy
 ---
 
 # 18. Data Retention Policy

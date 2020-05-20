@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: 3rd Party Policy
+permalink: /policies/21-3rd_party_policy
 ---
 
 # 21. 3rd Party Policy

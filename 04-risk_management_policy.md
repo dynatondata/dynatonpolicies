@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Risk Management Policy
+permalink: /policies/04-risk_management_policy
 ---
 
 # 4. Risk Management Policy

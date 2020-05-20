@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Dynaton Data HIPAA Business Associate Agreement
+permalink: /policies/23-dynatondata_hipaa_business_associate_agreement
 ---
 
 # 23. Dynaton Data HIPAA Business Associate Agreement ("BAA")

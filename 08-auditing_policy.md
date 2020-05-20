@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Auditing Policy
+permalink: /policies/08-auditing_policy
 ---
 
 # 8. Auditing Policy
