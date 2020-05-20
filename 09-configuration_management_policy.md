@@ -6,7 +6,7 @@ permalink: /policies/09-configuration_management_policy
 
 # 9. Configuration Management Policy
 
-Dynaton Data documents of all changes to production systems and networks.
+Dynaton documents of all changes to production systems and networks.
 
 ## 9.1 Applicable Standards
 
@@ -20,12 +20,12 @@ Dynaton Data documents of all changes to production systems and networks.
 
 ## 9.2 Configuration Management Policies
 
-1. No systems are deployed into Dynaton Data environments without approval of the Dynaton Data CTO.
-2. All changes to production systems, network devices, and firewalls are approved by the Dynaton Data CTO before they are implemented to assure they comply with business and security requirements.
+1. No systems are deployed into Dynaton environments without approval of the Dynaton CTO.
+2. All changes to production systems, network devices, and firewalls are approved by the Dynaton CTO before they are implemented to assure they comply with business and security requirements.
 3. All changes to production systems are tested before they are implemented in production.
 4. Implementation of approved changes are only performed by authorized personnel.
 5. An up-to-date inventory of systems is maintained using Google spreadsheets and architecture diagrams hosted on Google Apps. All systems are categorized as production and utility to differentiate based on criticality.
 6. All frontend functionality (developer dashboards and portals) is separated from backend (database and app servers) systems by being deployed on separate servers or containers.
 7. All committed code is reviewed using pull requests to assure software code quality and proactively detect potential security issues in development.
-8. Dynaton Data utilizes development and staging environments that mirror production to assure proper function.
+8. Dynaton utilizes development and staging environments that mirror production to assure proper function.
 9. Clocks are continuously synchronized to an authoritative source across all systems using NTP or a platform-specific equivalent. Modifying time data on systems is restricted.

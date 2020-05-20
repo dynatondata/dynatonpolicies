@@ -6,7 +6,7 @@ permalink: /policies/17-data_integrity_policy
 
 # 17. Data Integrity Policy
 
-Dynaton Data takes data integrity very seriously. As stewards and partners of Dynaton Data Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Dynaton Data mission of data protection.
+Dynaton takes data integrity very seriously. As stewards and partners of Dynaton Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Dynaton mission of data protection.
 
 Production systems that create, receive, store, or transmit Customer data (hereafter "Production Systems") must follow the guidelines described in this section.
 
@@ -26,16 +26,16 @@ Production systems that create, receive, store, or transmit Customer data (herea
 
 ## 17.3 Monitoring Log-in Attempts
 
-1. All access to Production Systems must be logged. This is done following the Dynaton Data Auditing Policy.
+1. All access to Production Systems must be logged. This is done following the Dynaton Auditing Policy.
 
 ## 17.4 Prevention of Malware on Production Systems
 
-1. All Production Systems are to only be used for Dynaton Data business needs.
+1. All Production Systems are to only be used for Dynaton business needs.
 
 ## 17.5 Patch Management
 
 1. Software patches and updates will be applied to all systems in a timely manner. In the case of routine updates, they will be applied after thorough testing. In the case of updates to correct known vulnerabilities, priority will be given to testing to speed the time to production. Critical security patches are applied within 30 days from testing and all security patches are applied within 90 days after testing.
-2. Administrators subscribe to mailing lists to ensure that they are using current versions of all Dynaton Data-managed software on Production Systems.
+2. Administrators subscribe to mailing lists to ensure that they are using current versions of all Dynaton-managed software on Production Systems.
 
 ## 17.6 Intrusion Detection and Vulnerability Scanning
 
@@ -53,13 +53,13 @@ Production systems that create, receive, store, or transmit Customer data (herea
 1. Reduce the risk of compromise of Production Data.
 2. Implement and/or review controls designed to protect Production Data from improper alteration or destruction.
 3. Ensure that confidential data is stored in a manner that supports user access logs and automated monitoring for potential security incidents.
-4. Ensure Dynaton Data Customer Production Data is segmented and only accessible to Customers authorized to access data.
-5. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Dynaton Data.
+4. Ensure Dynaton Customer Production Data is segmented and only accessible to Customers authorized to access data.
+5. All Production Data at rest is stored on encrypted volumes using encryption keys managed by Dynaton.
 
 ## 17.9 Transmission Security
 
-1. All data transmission is encrypted end to end using encryption keys managed by Dynaton Data. Encryption is not terminated at the network end point, and is carried through to the application.
+1. All data transmission is encrypted end to end using encryption keys managed by Dynaton. Encryption is not terminated at the network end point, and is carried through to the application.
 2. Transmission encryption keys and machines that generate keys are protected from unauthorized access.
 3. Transmission encryption keys are limited to use for one year and then must be regenerated.
-4. In the case of Dynaton Data provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
+4. In the case of Dynaton provided APIs, provide mechanisms to assure person sending or receiving data is authorized to send and save data.
 5. System logs of all transmissions of Production Data access. These logs must be available for audit.

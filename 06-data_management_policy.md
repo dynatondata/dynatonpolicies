@@ -6,9 +6,9 @@ permalink: /policies/06-data_management_policy
 
 # 6. Data Management Policy
 
-Dynaton Data has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with the Dynaton Data Platform. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Dynaton Data.
+Dynaton has procedures to create and maintain retrievable exact copies of electronic protected health information (ePHI) stored in conjunction with the Dynaton Platform. The policy and procedures will assure that complete, accurate, retrievable, and tested backups are available for all systems used by Dynaton.
 
-Data backup is an important part of the day-to-day operations of Dynaton Data. To protect the confidentiality, integrity, and availability of ePHI, both for Dynaton Data and Dynaton Data Customers, complete backups are done daily to assure that data remains available when needed and in case of a disaster.
+Data backup is an important part of the day-to-day operations of Dynaton. To protect the confidentiality, integrity, and availability of ePHI, both for Dynaton and Dynaton Customers, complete backups are done daily to assure that data remains available when needed and in case of a disaster.
 
 Violation of this policy and its procedures by workforce members may result in corrective disciplinary action, up to and including termination of employment.
 
@@ -26,8 +26,8 @@ Violation of this policy and its procedures by workforce members may result in c
 
 ## 6.2 Backup Policy and Procedures
 
-1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Dynaton Data Customers.
-2. The Dynaton Data Ops Team is designated to be in charge of backups.
+1. Perform daily snapshot backups of all systems that process, store, or transmit ePHI for Dynaton Customers.
+2. The Dynaton Ops Team is designated to be in charge of backups.
 3. Dev Ops Team members are trained and assigned to complete backups and manage the backup media.
 4. Document backups
    - Name of the system

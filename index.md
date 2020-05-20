@@ -6,7 +6,7 @@ layout: page
 permalink: /
 ---
 
-# Dynaton Data Policies
+# Dynaton Policies
 
 [03-policy_management_policy.md](https://dynatondata.github.io/policies/03-policy_management_policy)<br/>
 [04-risk_management_policy.md](https://dynatondata.github.io/policies/04-risk_management_policy)<br/>
