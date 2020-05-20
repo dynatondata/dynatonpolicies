@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Roles Policy
 permalink: /policies/05-roles_policy
 ---
