@@ -46,3 +46,5 @@ url: "https://dynatondata.github.io" # the base hostname & protocol for your sit
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-slate
