@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Policy Management Policy
 permalink: /policies/03-policy_management_policy
 ---

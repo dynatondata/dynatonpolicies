@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Configuration Management Policy
 permalink: /policies/09-configuration_management_policy
 ---

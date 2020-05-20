@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Disposable Media Policy
 permalink: /policies/14-disposable_media_policy
 ---

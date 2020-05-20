@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Breach Policy
 permalink: /policies/12-breach_policy
 ---

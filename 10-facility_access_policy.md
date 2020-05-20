@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Facility Access Policy
 permalink: /policies/10-facility_access_policy
 ---

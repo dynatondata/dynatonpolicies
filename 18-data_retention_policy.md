@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Data Retention Policy
 permalink: /policies/18-data_retention_policy
 ---

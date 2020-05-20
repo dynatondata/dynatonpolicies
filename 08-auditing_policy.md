@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Auditing Policy
 permalink: /policies/08-auditing_policy
 ---

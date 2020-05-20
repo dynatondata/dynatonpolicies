@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HIPAA Mappings to Dynaton Controls
 permalink: /policies/24-hipaa_mapping_to_dynatondata_controls
 ---

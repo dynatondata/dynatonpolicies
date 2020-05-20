@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Risk Management Policy
 permalink: /policies/04-risk_management_policy
 ---

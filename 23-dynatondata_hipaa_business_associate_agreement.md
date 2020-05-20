@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dynaton HIPAA Business Associate Agreement
 permalink: /policies/23-dynatondata_hipaa_business_associate_agreement
 ---

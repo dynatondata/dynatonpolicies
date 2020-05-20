@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Approved Tools Policy
 permalink: /policies/20-approved_tools_policy
 ---

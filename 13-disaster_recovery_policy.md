@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Disaster Recovery Policy
 permalink: /policies/13-disaster_recovery_policy
 ---

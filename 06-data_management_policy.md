@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Data Management Policy
 permalink: /policies/06-data_management_policy
 ---

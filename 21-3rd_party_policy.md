@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 3rd Party Policy
 permalink: /policies/21-3rd_party_policy
 ---

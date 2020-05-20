@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: System Access Policy
 permalink: /policies/07-systems_access_policy
 ---

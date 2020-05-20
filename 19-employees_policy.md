@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Employees Policy
 permalink: /policies/19-employees_policy
 ---
